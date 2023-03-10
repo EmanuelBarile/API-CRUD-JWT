@@ -1,0 +1,17 @@
+C:\Users\Windows11\Desktop\CRUD\Contracts\bin\Debug\net6.0\Contracts.deps.json
+C:\Users\Windows11\Desktop\CRUD\Contracts\bin\Debug\net6.0\Contracts.runtimeconfig.json
+C:\Users\Windows11\Desktop\CRUD\Contracts\bin\Debug\net6.0\Contracts.dll
+C:\Users\Windows11\Desktop\CRUD\Contracts\bin\Debug\net6.0\Contracts.pdb
+C:\Users\Windows11\Desktop\CRUD\Contracts\bin\Debug\net6.0\Common.dll
+C:\Users\Windows11\Desktop\CRUD\Contracts\bin\Debug\net6.0\Common.pdb
+C:\Users\Windows11\Desktop\CRUD\Contracts\obj\Debug\net6.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Windows11\Desktop\CRUD\Contracts\obj\Debug\net6.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows11\Desktop\CRUD\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Windows11\Desktop\CRUD\Contracts\obj\Debug\net6.0\Contracts.AssemblyInfo.cs
+C:\Users\Windows11\Desktop\CRUD\Contracts\obj\Debug\net6.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Windows11\Desktop\CRUD\Contracts\obj\Debug\net6.0\Contracts.csproj.CopyComplete
+C:\Users\Windows11\Desktop\CRUD\Contracts\obj\Debug\net6.0\Contracts.dll
+C:\Users\Windows11\Desktop\CRUD\Contracts\obj\Debug\net6.0\refint\Contracts.dll
+C:\Users\Windows11\Desktop\CRUD\Contracts\obj\Debug\net6.0\Contracts.pdb
+C:\Users\Windows11\Desktop\CRUD\Contracts\obj\Debug\net6.0\Contracts.genruntimeconfig.cache
+C:\Users\Windows11\Desktop\CRUD\Contracts\obj\Debug\net6.0\ref\Contracts.dll
